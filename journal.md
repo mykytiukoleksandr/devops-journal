@@ -1,2 +1,2 @@
-2026-10-11: set up Git, Python, Ubuntu (WSL)
-2026-10-12 practiced linux commands (mkdir -p, touch, mv, head, tail, wc, cp -r
+- 2026-10-11: set up Git, Python, Ubuntu (WSL)
+- 2026-10-12 practiced linux commands (mkdir -p, touch, mv, head, tail, wc, cp -r
