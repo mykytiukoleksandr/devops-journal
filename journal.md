@@ -1,3 +1,4 @@
 - 2026-10-11: set up Git, Python, Ubuntu (WSL)
 - 2026-10-12: practiced Linux commands (mkdir -p, touch, nano, head, tail, wc, cp -r, mv)
 - 2026-10-13: learned sudo, chown, chmod.
+- 2026-10-13 Learned how to use find and grep using pipe
