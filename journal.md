@@ -1,1 +1,3 @@
+- 2026-10-11: set up Git, Python, Ubuntu (WSL)
+- 2026-10-12: practiced Linux commands (...)
 - 2026-10-13: learned sudo, chown, chmod.
